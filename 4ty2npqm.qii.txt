@@ -1,0 +1,25 @@
+﻿Added README
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   0lfy5nf3.4vs.txt
+#	new file:   Local Games Forum.html
+#	new file:   README.md
+#	new file:   localgames/images/bulls.png
+#	new file:   localgames/images/favicon_36x36.png
+#	new file:   localgames/images/football.png
+#	new file:   localgames/images/games_team.png
+#	new file:   localgames/images/localgames.png
+#	new file:   localgames/images/rugby.png
+#	new file:   localgames/images/sprites.png
+#	new file:   localgames/images/sprites_1.png
+#	new file:   localgames/images/trophy.png
+#	new file:   localgames/local_0.min.css
+#	new file:   localgames/local_1.min.css
+#	new file:   localgames/sprites.css
+#
+

@@ -1,0 +1,183 @@
+.nav-sidebar a {
+    *zoom: 1;
+    display: block;
+    position: relative;
+    height: 50px;
+    line-height: 34px;
+    padding: 8px 10px 8px 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #3c3c3c;
+    font-weight: 700
+}
+.nav-sidebar a:before,
+.nav-sidebar a:after {
+    display: table;
+    content: "";
+    line-height: 0
+}
+.nav-sidebar a:after {
+    clear: both
+}
+.nav-sidebar a:before,
+.nav-sidebar a:after {
+    display: table;
+    content: "";
+    line-height: 0
+}
+.nav-sidebar a:after {
+    clear: both
+}
+.sticky-discussion-message {
+    display: inline-block;
+    padding: 2px 7px;
+    background: #f5f5f5;
+    color: #999;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-right: 7px
+}
+.list-discussion-item {
+    border-top: 2px solid #f3f3f3;
+    *zoom: 1;
+    padding: 20px 0 20px 80px
+}
+.list-discussion-item:before,
+.list-discussion-item:after {
+    display: table;
+    content: "";
+    line-height: 0
+}
+.list-discussion-item:after {
+    clear: both
+}
+.list-discussion-item:before,
+.list-discussion-item:after {
+    display: table;
+    content: "";
+    line-height: 0
+}
+.list-discussion-item:after {
+    clear: both
+}
+.list-discussion-item .avatar {
+    float: left;
+    margin: 0 0 0 -80px;
+    position: relative;
+    z-index: 2
+}
+.list-discussion-item .icon-comment-medium {
+    float: right;
+    line-height: 44px;
+    text-align: center;
+    color: #999;
+    font-weight: 700;
+    margin: 8px 0 0 30px
+}
+.list-discussion-item .compact-footer {
+    display: none
+}
+.list-discussion-item:first-child {
+    border-top: none
+}
+.list-discussion-item-header {
+    font-size: 17px;
+    line-height: 23px;
+    margin: 5px 0 5px 0;
+    font-weight: 700
+}
+.list-discussion-item-header a {
+    color: #1caff6
+}
+.list-discussion-item-header a:hover {
+    text-decoration: underline
+}
+.list-discussion-item-footer {
+    color: #999;
+    font-size: 14px;
+    line-height: 26px;
+    float: left;
+    position: relative;
+    z-index: 2
+}
+.list-discussion-item-footer a:hover {
+    text-decoration: underline
+}
+.incubator-ad .skill-icon {
+    -webkit-transform: scale3d(.8, .8, 1);
+    -moz-transform: scale3d(.8, .8, 1);
+    -ms-transform: scale3d(.8, .8, 1);
+    -o-transform: scale3d(.8, .8, 1);
+    transform: scale3d(.8, .8, 1);
+    margin: 0 -10px 0 10px
+}
+.vote-module-small {
+    height: 30px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px
+}
+.vote-module-small .vote-count {
+    font-size: 13px;
+    min-width: 24px;
+    height: 24px;
+    padding: 0 5px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: #f0f0f0;
+    text-align: center;
+    line-height: 24px;
+    font-weight: 700;
+    color: #808080;
+    float: left
+}
+/*! normalize.css v2.0.1 | MIT License | git.io/normalize */
+
+footer,
+header,
+section {
+    display: block
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%
+}
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none
+}
+body {
+    margin: 0;
+    padding: 0
+}
+a:focus {
+    outline: thin dotted
+}
+a:active,
+a:hover {
+    outline: 0
+}
+h1 {
+    font-size: 2em
+}
+p {
+    margin: 0 0 18px 0
+}
+img {
+    border: 0
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}

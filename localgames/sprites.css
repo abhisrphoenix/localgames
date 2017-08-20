@@ -1,0 +1,94 @@
+.cricket, .curling, .fencing, .football, .football-ball, .golf-stick, .ping-pong, .podium, .tennis, .volleyball, .badminton, .baseball, .basketball, .boxing, .chess{
+	background: url(sprites.png) no-repeat;
+}
+
+.cricket{
+	background-position: -462px -13px ;
+	width: 24px;
+	height: 24px;
+}
+
+.curling{
+	background-position: -412px -13px ;
+	width: 24px;
+	height: 24px;
+}
+
+.fencing{
+	background-position: -361px -13px ;
+	width: 24px;
+	height: 24px;
+}
+
+.football{
+	background-position: -310px -12px ;
+	width: 24px;
+	height: 24px;
+}
+
+.football-ball{
+	background-position: -256px -9px ;
+	width: 32px;
+	height: 32px;
+}
+
+.golf-stick{
+	background-position: -207px -13px ;
+	width: 24px;
+	height: 24px;
+}
+
+.ping-pong{
+	background-position: -160px -12px ;
+	width: 24px;
+	height: 24px;
+}
+
+.podium{
+	background-position: -108px -14px ;
+	width: 24px;
+	height: 24px;
+}
+
+.tennis{
+	background-position: -61px -14px ;
+	width: 24px;
+	height: 24px;
+}
+
+.volleyball{
+	background-position: -13px -14px ;
+	width: 24px;
+	height: 24px;
+}
+
+.badminton{
+	background-position: -509px -12px ;
+	width: 24px;
+	height: 24px;
+}
+
+.baseball{
+	background-position: -561px -12px ;
+	width: 24px;
+	height: 24px;
+}
+
+.basketball{
+	background-position: -603px -12px ;
+	width: 24px;
+	height: 24px;
+}
+
+.boxing{
+	background-position: -59px -62px ;
+	width: 24px;
+	height: 24px;
+}
+
+.chess{
+	background-position: -13px -58px ;
+	width: 24px;
+	height: 24px;
+}
+

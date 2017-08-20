@@ -1,0 +1,1 @@
+Copyright (c) Addvark Inc
